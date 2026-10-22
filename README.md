@@ -52,8 +52,8 @@ Entradas, uma por linha (a quantidade 0 e a nota "abc" são inválidas; a linha 
 
 ```
 0
-2
 (linha vazia)
+2
 Davi
 abc
 4

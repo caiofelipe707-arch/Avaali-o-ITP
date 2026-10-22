@@ -2,7 +2,7 @@
 
 ## Identificação
 
-- **Nome:** [Caio Felipe Sales da Silva]
+- **Nome:** Caio Felipe Sales da Silva
 - **Projeto escolhido:** Opção 1 - Boletim de uma pequena turma
 
 ## Descrição

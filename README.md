@@ -70,7 +70,7 @@ Resultado esperado: a quantidade 0 é rejeitada e a 2 é aceita; o nome vazio é
 
 ## Vídeo
 
-[COLE AQUI O LINK DO VÍDEO NO YOUTUBE]
+https://www.youtube.com/watch?v=kn_HLtftb7Q
 
 ## Referências
 

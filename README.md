@@ -27,6 +27,7 @@ Em Linux ou macOS, com o GCC instalado:
 ```
 gcc -std=c11 -Wall -Wextra main.c -o programa
 ./programa
+2º opação site: https://www.onlinegdb.com/online_c++_compiler
 ```
 
 ## Testes
